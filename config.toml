@@ -1,0 +1,5 @@
+baseURL = "https://kumamcn.github.io/"
+languageCode = "ja-jp"
+title = "KumaMCN"
+theme = "minimal"
+publishDir = "docs"
