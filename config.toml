@@ -99,7 +99,7 @@ canonifyurls = true
   identifier = "facebookgroup"
   name = "Facebook Group"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-facebook\"></i>"
-  url = "https://facebook.com/group/kumamcn"
+  url = "https://facebook.com/groups/kumamcn"
 
 [[menu.links]]
   weight = 3
