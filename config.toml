@@ -82,6 +82,13 @@ canonifyurls = true
 
 [[menu.links]]
   weight = 1
+  identifier = "hashtag"
+  name = "#KumaMCN"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-hashtag\"></i>"
+  url = "https://twitter.com/hashtag/kumamcn"
+
+[[menu.links]]
+  weight = 1
   identifier = "twitter"
   name = "Twitter"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
@@ -101,12 +108,12 @@ canonifyurls = true
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-facebook\"></i>"
   url = "https://facebook.com/groups/kumamcn"
 
-[[menu.links]]
-  weight = 3
-  identifier = "github"
-  name = "GitHub"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
-  url = "https://github.com/kumamcn"
+#[[menu.links]]
+#  weight = 3
+#  identifier = "github"
+#  name = "GitHub"
+#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
+#  url = "https://github.com/kumamcn"
 
 [params]
   # Customize date format use to render blog post date, categories and other
