@@ -1,0 +1,21 @@
+name: CI
+
+on: 
+  push:
+    branches: source
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: source
+    - name: Run Subtree
+      run: |
+        echo git branch
+        git branch
+        echo push origin `git subtree split --prefix=docs/ --onto=origin:master`:master --force
+        git push origin `git subtree split --prefix=docs/ --onto=origin:master`:master --force
