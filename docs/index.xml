@@ -6,18 +6,27 @@
     <description>Recent content on KumaMCN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 28 Feb 2020 15:15:24 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2020 15:40:12 +0900</lastBuildDate>
     
 	<atom:link href="https://kumamcn.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello</title>
-      <link>https://kumamcn.github.io/2020/02/hello/</link>
-      <pubDate>Fri, 28 Feb 2020 15:15:24 +0900</pubDate>
+      <title>熊本GTFS-JP活用勉強会</title>
+      <link>https://kumamcn.github.io/2020/03/%E7%86%8A%E6%9C%ACgtfs-jp%E6%B4%BB%E7%94%A8%E5%8B%89%E5%BC%B7%E4%BC%9A/</link>
+      <pubDate>Mon, 02 Mar 2020 15:40:12 +0900</pubDate>
       
-      <guid>https://kumamcn.github.io/2020/02/hello/</guid>
-      <description>&lt;p&gt;テストページです。&lt;/p&gt;</description>
+      <guid>https://kumamcn.github.io/2020/03/%E7%86%8A%E6%9C%ACgtfs-jp%E6%B4%BB%E7%94%A8%E5%8B%89%E5%BC%B7%E4%BC%9A/</guid>
+      <description>&lt;p&gt;標準的なバス情報フォーマット（GTFS-JP）の熊本版オープンデータを活用する方法について学ぶ、「熊本GTFS-JP活用勉強会」&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>熊本TouchDesignerもくもく会</title>
+      <link>https://kumamcn.github.io/2020/03/%E7%86%8A%E6%9C%ACtouchdesigner%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A/</link>
+      <pubDate>Mon, 02 Mar 2020 14:30:42 +0900</pubDate>
+      
+      <guid>https://kumamcn.github.io/2020/03/%E7%86%8A%E6%9C%ACtouchdesigner%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A/</guid>
+      <description>&lt;p&gt;熊本でTouchDesignerについて情報交換したり作業をすることで学びあう、「熊本TouchDesignerもくもく会」&lt;/p&gt;</description>
     </item>
     
   </channel>

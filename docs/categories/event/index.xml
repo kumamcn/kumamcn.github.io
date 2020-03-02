@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on KumaMCN</title>
-    <link>https://kumamcn.github.io/post/</link>
-    <description>Recent content in Posts on KumaMCN</description>
+    <title>Event on KumaMCN</title>
+    <link>https://kumamcn.github.io/categories/event/</link>
+    <description>Recent content in Event on KumaMCN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 02 Mar 2020 15:40:12 +0900</lastBuildDate>
     
-	<atom:link href="https://kumamcn.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kumamcn.github.io/categories/event/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
