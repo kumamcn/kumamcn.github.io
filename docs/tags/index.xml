@@ -6,10 +6,55 @@
     <description>Recent content in Tags on KumaMCN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 28 Feb 2020 15:15:24 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2020 15:40:12 +0900</lastBuildDate>
     
 	<atom:link href="https://kumamcn.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GTFS-JP</title>
+      <link>https://kumamcn.github.io/tags/gtfs-jp/</link>
+      <pubDate>Mon, 02 Mar 2020 15:40:12 +0900</pubDate>
+      
+      <guid>https://kumamcn.github.io/tags/gtfs-jp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>オープンデータ</title>
+      <link>https://kumamcn.github.io/tags/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%87%E3%83%BC%E3%82%BF/</link>
+      <pubDate>Mon, 02 Mar 2020 15:40:12 +0900</pubDate>
+      
+      <guid>https://kumamcn.github.io/tags/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%87%E3%83%BC%E3%82%BF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TouchDesigner</title>
+      <link>https://kumamcn.github.io/tags/touchdesigner/</link>
+      <pubDate>Mon, 02 Mar 2020 14:30:42 +0900</pubDate>
+      
+      <guid>https://kumamcn.github.io/tags/touchdesigner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VJ</title>
+      <link>https://kumamcn.github.io/tags/vj/</link>
+      <pubDate>Mon, 02 Mar 2020 14:30:42 +0900</pubDate>
+      
+      <guid>https://kumamcn.github.io/tags/vj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>もくもく会</title>
+      <link>https://kumamcn.github.io/tags/%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A/</link>
+      <pubDate>Mon, 02 Mar 2020 14:30:42 +0900</pubDate>
+      
+      <guid>https://kumamcn.github.io/tags/%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>tag1</title>

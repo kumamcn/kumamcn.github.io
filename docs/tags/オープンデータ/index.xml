@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>オープンデータ on KumaMCN</title>
+    <link>https://kumamcn.github.io/tags/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%87%E3%83%BC%E3%82%BF/</link>
+    <description>Recent content in オープンデータ on KumaMCN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 02 Mar 2020 15:40:12 +0900</lastBuildDate>
+    
+	<atom:link href="https://kumamcn.github.io/tags/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%87%E3%83%BC%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>熊本GTFS-JP活用勉強会</title>
+      <link>https://kumamcn.github.io/2020/03/%E7%86%8A%E6%9C%ACgtfs-jp%E6%B4%BB%E7%94%A8%E5%8B%89%E5%BC%B7%E4%BC%9A/</link>
+      <pubDate>Mon, 02 Mar 2020 15:40:12 +0900</pubDate>
+      
+      <guid>https://kumamcn.github.io/2020/03/%E7%86%8A%E6%9C%ACgtfs-jp%E6%B4%BB%E7%94%A8%E5%8B%89%E5%BC%B7%E4%BC%9A/</guid>
+      <description>&lt;p&gt;標準的なバス情報フォーマット（GTFS-JP）の熊本版オープンデータを活用する方法について学ぶ、「熊本GTFS-JP活用勉強会」&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
