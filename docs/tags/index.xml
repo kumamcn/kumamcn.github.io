@@ -56,23 +56,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>tag1</title>
-      <link>https://kumamcn.github.io/tags/tag1/</link>
-      <pubDate>Fri, 28 Feb 2020 15:15:24 +0900</pubDate>
-      
-      <guid>https://kumamcn.github.io/tags/tag1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tag2</title>
-      <link>https://kumamcn.github.io/tags/tag2/</link>
-      <pubDate>Fri, 28 Feb 2020 15:15:24 +0900</pubDate>
-      
-      <guid>https://kumamcn.github.io/tags/tag2/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

@@ -29,23 +29,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>category</title>
-      <link>https://kumamcn.github.io/categories/category/</link>
-      <pubDate>Fri, 28 Feb 2020 15:15:24 +0900</pubDate>
-      
-      <guid>https://kumamcn.github.io/categories/category/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>subcategory</title>
-      <link>https://kumamcn.github.io/categories/subcategory/</link>
-      <pubDate>Fri, 28 Feb 2020 15:15:24 +0900</pubDate>
-      
-      <guid>https://kumamcn.github.io/categories/subcategory/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

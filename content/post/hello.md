@@ -10,7 +10,7 @@ tags:
 keywords:
 - tech
 #thumbnailImage: //example.com/image.jpg
-draft: false
+draft: true
 ---
 テストページです。
 <!--more-->
