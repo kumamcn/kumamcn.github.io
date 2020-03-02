@@ -1,6 +1,7 @@
 ---
 title: "熊本TouchDesignerもくもく会"
 date: 2020-03-02T14:30:42+09:00
+url: TD-mokumoku
 categories:
 - Event
 - もくもく会

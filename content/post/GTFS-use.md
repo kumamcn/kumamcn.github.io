@@ -1,6 +1,7 @@
 ---
 title: "熊本GTFS-JP活用勉強会"
 date: 2020-03-02T15:40:12+09:00
+url: GTFS-use
 categories:
 - Event
 tags:
