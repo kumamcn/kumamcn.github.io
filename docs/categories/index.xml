@@ -6,10 +6,19 @@
     <description>Recent content in Categories on KumaMCN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 02 Mar 2020 15:40:12 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2020 22:32:16 +0900</lastBuildDate>
     
 	<atom:link href="https://kumamcn.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Product</title>
+      <link>https://kumamcn.github.io/categories/product/</link>
+      <pubDate>Mon, 02 Mar 2020 22:32:16 +0900</pubDate>
+      
+      <guid>https://kumamcn.github.io/categories/product/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Event</title>

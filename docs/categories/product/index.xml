@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>KumaMCN</title>
-    <link>https://kumamcn.github.io/</link>
-    <description>Recent content on KumaMCN</description>
+    <title>Product on KumaMCN</title>
+    <link>https://kumamcn.github.io/categories/product/</link>
+    <description>Recent content in Product on KumaMCN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 02 Mar 2020 22:32:16 +0900</lastBuildDate>
     
-	<atom:link href="https://kumamcn.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kumamcn.github.io/categories/product/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,24 +27,6 @@
       
       <guid>https://kumamcn.github.io/genetradpat/</guid>
       <description>&lt;p&gt;日本の伝統文様をTouchDesigner上で再現し（プロシージャルテクスチャ）、各種センサの入力に合わせてテクスチャを変えることができる表現。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>熊本GTFS-JP活用勉強会</title>
-      <link>https://kumamcn.github.io/gtfs-use/</link>
-      <pubDate>Mon, 02 Mar 2020 15:40:12 +0900</pubDate>
-      
-      <guid>https://kumamcn.github.io/gtfs-use/</guid>
-      <description>&lt;p&gt;標準的なバス情報フォーマット（GTFS-JP）の熊本版オープンデータを活用する方法について学ぶ、「熊本GTFS-JP活用勉強会」&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>熊本TouchDesignerもくもく会</title>
-      <link>https://kumamcn.github.io/td-mokumoku/</link>
-      <pubDate>Mon, 02 Mar 2020 14:30:42 +0900</pubDate>
-      
-      <guid>https://kumamcn.github.io/td-mokumoku/</guid>
-      <description>&lt;p&gt;熊本でTouchDesignerについて情報交換したり作業をすることで学びあう、「熊本TouchDesignerもくもく会」&lt;/p&gt;</description>
     </item>
     
   </channel>
