@@ -11,7 +11,11 @@ tags:
 - VJ
 keywords:
 - tech
-#thumbnailImage: //example.com/image.jpg
+thumbnailImagePosition: top
+thumbnailImage: //drive.google.com/uc?export=view&id=18QreGiUvXR2V0Gz9Kkyr1ztljlK6RQKy
+coverImage: //drive.google.com/uc?export=view&id=1GPnGUNYdAkRT2_2kI5H3g6N_enNw-oA4
+metaAlignment: center
+#coverMeta: out
 ---
 熊本でTouchDesignerについて情報交換したり作業をすることで学びあう、「熊本TouchDesignerもくもく会」
 

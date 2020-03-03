@@ -9,10 +9,13 @@ tags:
 - オープンデータ
 keywords:
 - tech
-#thumbnailImage: //example.com/image.jpg
+thumbnailImagePosition: left
+thumbnailImage: //drive.google.com/uc?export=view&id=1uHsZFuCen8Y3EhPnf_ljjTUj_QElp1G0
 ---
 標準的なバス情報フォーマット（GTFS-JP）の熊本版オープンデータを活用する方法について学ぶ、「熊本GTFS-JP活用勉強会」
 <!--more-->
+
+![kuma_gtfs_logo](//drive.google.com/uc?export=view&id=1uHsZFuCen8Y3EhPnf_ljjTUj_QElp1G0)
 
 > このイベントは熊本で GTFS-JP（標準的なバス情報フォーマット）を活用したい人が集まって一緒に学んでいく勉強会です。
 > 熊本でもバス関係者向けの勉強会はありました。オープンデータだし関係者ではない人たちも参入すべきだと考え、草の根活動として勉強会を企画しました。

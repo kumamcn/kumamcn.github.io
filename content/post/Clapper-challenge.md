@@ -11,7 +11,11 @@ keywords:
 - クラッピー
 - パチパチトール君
 - バイバイワールド
-#thumbnailImage: //example.com/image.jpg
+thumbnailImagePosition: left
+thumbnailImage: //drive.google.com/uc?export=view&id=1_puvtHzOinUySmpcv0Qlybj_aP7DHFmg
+coverImage: //drive.google.com/uc?export=view&id=1p0ijvvQLibJEH0oF6gvrNh2YlHqR6Wn1
+metaAlignment: center
+coverMeta: out
 ---
 [クラッピーチャレンジ](https://twitter.com/hashtag/クラッピーチャレンジ)は、片手で拍手できる玩具を限界までハックするという、2017年2月からKumaMCNで自然発生した謎のムーブメント。
 <!--more-->
