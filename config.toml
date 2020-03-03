@@ -161,9 +161,7 @@ canonifyurls = true
   # Current image is on AWS S3 and delivered by AWS CloudFront.
   # Otherwise put your image, for example `cover.jpg` in folder `static/images/`,
   # and use relative url : `images/cover.jpg`
-  #coverImage = "img/cover.jpg"
-  #coverImage = "https://drive.google.com/open?id=114q12FP-uvcudDjh3PPZmks34-EYphIU"
-  coverImage = "//drive.google.com/uc?export=view&id=114q12FP-uvcudDjh3PPZmks34-EYphIU"
+  coverImage = "img/cover.jpg"
 
   # Display an image gallery at the end of a post which have photos variables (false: disabled, true: enabled)
   imageGallery = true
