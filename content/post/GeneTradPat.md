@@ -13,7 +13,8 @@ keywords:
 - 和柄
 - 文様
 - 紋様
-#thumbnailImage: //example.com/image.jpg
+thumbnailImagePosition: left
+thumbnailImage: //drive.google.com/uc?export=view&id=1bfpRFVk_-mLGESKnenJAsjgHoSPSVNDo
 ---
 日本の伝統文様をTouchDesigner上で再現し（プロシージャルテクスチャ）、各種センサの入力に合わせてテクスチャを変えることができる表現。
 <!--more-->
