@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>クラッピーチャレンジ on KumaMCN</title>
+    <link>https://kumamcn.github.io/tags/%E3%82%AF%E3%83%A9%E3%83%83%E3%83%94%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8/</link>
+    <description>Recent content in クラッピーチャレンジ on KumaMCN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 02 Mar 2020 22:32:16 +0900</lastBuildDate>
+    
+	<atom:link href="https://kumamcn.github.io/tags/%E3%82%AF%E3%83%A9%E3%83%83%E3%83%94%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#クラッピーチャレンジ</title>
+      <link>https://kumamcn.github.io/clapper-challenge/</link>
+      <pubDate>Mon, 02 Mar 2020 22:32:16 +0900</pubDate>
+      
+      <guid>https://kumamcn.github.io/clapper-challenge/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://twitter.com/hashtag/%E3%82%AF%E3%83%A9%E3%83%83%E3%83%94%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8&#34;&gt;クラッピーチャレンジ&lt;/a&gt;は、片手で拍手できる玩具を限界までハックするという、2017年2月からKumaMCNで自然発生した謎のムーブメント。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

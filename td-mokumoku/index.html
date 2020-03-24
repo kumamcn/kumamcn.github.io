@@ -1,0 +1,658 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo 0.65.3 with theme Tranquilpeak 0.4.7-BETA">
+<meta name="author" content="Kumamoto MotionControl Network">
+<meta name="keywords" content="tech">
+<meta name="description" content="熊本でTouchDesignerについて情報交換したり作業をすることで学びあう、「熊本TouchDesignerもくもく会」">
+
+
+<meta property="og:description" content="熊本でTouchDesignerについて情報交換したり作業をすることで学びあう、「熊本TouchDesignerもくもく会」">
+<meta property="og:type" content="article">
+<meta property="og:title" content="熊本TouchDesignerもくもく会">
+<meta name="twitter:title" content="熊本TouchDesignerもくもく会">
+<meta property="og:url" content="https://kumamcn.github.io/td-mokumoku/">
+<meta property="twitter:url" content="https://kumamcn.github.io/td-mokumoku/">
+<meta property="og:site_name" content="KumaMCN">
+<meta property="og:description" content="熊本でTouchDesignerについて情報交換したり作業をすることで学びあう、「熊本TouchDesignerもくもく会」">
+<meta name="twitter:description" content="熊本でTouchDesignerについて情報交換したり作業をすることで学びあう、「熊本TouchDesignerもくもく会」">
+<meta property="og:locale" content="ja">
+
+  
+    <meta property="article:published_time" content="2020-03-02T14:30:42">
+  
+  
+    <meta property="article:modified_time" content="2020-03-02T14:30:42">
+  
+  
+  
+    
+      <meta property="article:section" content="Event">
+    
+      <meta property="article:section" content="もくもく会">
+    
+  
+  
+    
+      <meta property="article:tag" content="TouchDesigner">
+    
+      <meta property="article:tag" content="もくもく会">
+    
+      <meta property="article:tag" content="VJ">
+    
+  
+
+
+<meta name="twitter:card" content="summary">
+
+  <meta name="twitter:site" content="@kuma_mcn">
+
+
+  <meta name="twitter:creator" content="@kuma_mcn">
+
+
+
+
+
+
+  <meta property="og:image" content="//drive.google.com/uc?export=view&id=18QreGiUvXR2V0Gz9Kkyr1ztljlK6RQKy">
+  <meta property="twitter:image" content="//drive.google.com/uc?export=view&id=18QreGiUvXR2V0Gz9Kkyr1ztljlK6RQKy">
+
+
+  <meta property="og:image" content="//drive.google.com/uc?export=view&id=1GPnGUNYdAkRT2_2kI5H3g6N_enNw-oA4">
+  <meta property="twitter:image" content="//drive.google.com/uc?export=view&id=1GPnGUNYdAkRT2_2kI5H3g6N_enNw-oA4">
+
+
+
+
+  <meta property="og:image" content="https://www.gravatar.com/avatar/375468237db7ccc8eba1b37c9a8771e9?s=640">
+  <meta property="twitter:image" content="https://www.gravatar.com/avatar/375468237db7ccc8eba1b37c9a8771e9?s=640">
+
+
+    <title>熊本TouchDesignerもくもく会</title>
+
+    <link rel="icon" href="https://kumamcn.github.io/favicon.png">
+    
+
+    
+
+    <link rel="canonical" href="https://kumamcn.github.io/td-mokumoku/">
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.min.css" integrity="sha256-vuXZ9LGmmwtjqFX1F+EKin1ThZMub58gKULUyf0qECk=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.css" integrity="sha256-SEa4XYAHihTcEP1f5gARTB2K26Uk8PsndQYHQC1f4jU=" crossorigin="anonymous" />
+    
+    
+    <link rel="stylesheet" href="https://kumamcn.github.io/css/style-twzjdbqhmnnacqs0pwwdzcdbt8yhv8giawvjqjmyfoqnvazl0dalmnhdkvp7.min.css" />
+    
+    
+      
+        <link rel="stylesheet"  href="https://kumamcn.github.io/css/mystyle.css">
+      
+    
+
+    
+      
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="4">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="https://kumamcn.github.io/">KumaMCN</a>
+  </div>
+  
+    
+      <a class="header-right-picture "
+         href="https://kumamcn.github.io/#about">
+    
+    
+    
+      
+        <img class="header-picture" src="https://www.gravatar.com/avatar/375468237db7ccc8eba1b37c9a8771e9?s=90" alt="プロフィール画像" />
+      
+    
+    </a>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="4">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="https://kumamcn.github.io/#about">
+          <img class="sidebar-profile-picture" src="https://www.gravatar.com/avatar/375468237db7ccc8eba1b37c9a8771e9?s=110" alt="プロフィール画像" />
+        </a>
+        <h4 class="sidebar-profile-name">Kumamoto MotionControl Network</h4>
+        
+          <h5 class="sidebar-profile-bio">熊本で面白いことが大好きなテック系コミュニティです。TMCNの姉妹コミュニティです。</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://kumamcn.github.io/">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-home"></i>
+      
+      <span class="sidebar-button-desc">ホーム</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://kumamcn.github.io/categories">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-bookmark"></i>
+      
+      <span class="sidebar-button-desc">カテゴリー</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://kumamcn.github.io/tags">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
+      
+      <span class="sidebar-button-desc">タグ</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://kumamcn.github.io/archives">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-archive"></i>
+      
+      <span class="sidebar-button-desc">アーカイブ</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://kumamcn.github.io/#about">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-question"></i>
+      
+      <span class="sidebar-button-desc">プロフィール</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://twitter.com/hashtag/kumamcn" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-hashtag"></i>
+      
+      <span class="sidebar-button-desc">#KumaMCN</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://twitter.com/kuma_mcn" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-twitter"></i>
+      
+      <span class="sidebar-button-desc">Twitter</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://facebook.com/groups/kumamcn" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-facebook"></i>
+      
+      <span class="sidebar-button-desc">Facebook Group</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://facebook.com/kumamcn" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-facebook"></i>
+      
+      <span class="sidebar-button-desc">Facebook Page</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+
+    </ul>
+  </div>
+</nav>
+
+      
+  <div class="post-header-cover
+              text-center
+              "
+       style="background-image:url('//drive.google.com/uc?export=view&amp;id=1GPnGUNYdAkRT2_2kI5H3g6N_enNw-oA4')"
+       data-behavior="4">
+    
+      <div class="post-header main-content-wrap text-center">
+  
+    <h1 class="post-title" itemprop="headline">
+      熊本TouchDesignerもくもく会
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+      <time itemprop="datePublished" datetime="2020-03-02T14:30:42&#43;09:00">
+        
+  
+  
+  
+  
+    2020-03-02
+  
+
+      </time>
+    
+    
+  
+  
+    <span>カテゴリー</span>
+    
+      <a class="category-link" href="https://kumamcn.github.io/categories/event">Event</a>, 
+    
+      <a class="category-link" href="https://kumamcn.github.io/categories/%e3%82%82%e3%81%8f%e3%82%82%e3%81%8f%e4%bc%9a">もくもく会</a>
+    
+  
+
+  </div>
+
+</div>
+    
+  </div>
+
+
+      <div id="main" data-behavior="4"
+        class="hasCover
+               hasCoverMetaIn
+               ">
+        <article class="post" itemscope itemType="http://schema.org/BlogPosting">
+          
+          
+          <div class="post-content markdown" itemprop="articleBody">
+            <div class="main-content-wrap">
+              <p>熊本でTouchDesignerについて情報交換したり作業をすることで学びあう、「熊本TouchDesignerもくもく会」</p>
+<h3 id="これは何">これは何？</h3>
+<p><a href="https://www.derivative.ca/">TouchDesigner</a>について質問したいことがあっても、熊本で詳しい人（使っている人）を見つけられなかったため、ユーザを増やして自分たちよりも詳しくなってもらうための活動。使っているテクニックや、最近覚えたテクニック、参考になりそうなWeb情報などをシェアしたり、前回からの進捗を披露する場。</p>
+<p>他人に教えられるほど詳しいメンバーが居ないため、勉強会でなくもくもく会スタイルとした。</p>
+<h3 id="ハッシュタグ">ハッシュタグ</h3>
+<p><a href="https://twitter.com/hashtag/kuma_td">#kuma_td</a></p>
+<h3 id="イベント一覧">イベント一覧</h3>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2019/6/5</td>
+<td><a href="https://kumamcn.connpass.com/event/134132/">熊本TouchDesignerもくもく会 vol. 0.001 - connpass</a></td>
+</tr>
+<tr>
+<td>2019/6/19</td>
+<td><a href="https://kumamcn.connpass.com/event/134433/">熊本TouchDesignerもくもく会 vol. 0.002 - connpass</a></td>
+</tr>
+<tr>
+<td>2019/7/3</td>
+<td><a href="https://kumamcn.connpass.com/event/136386/">熊本TouchDesignerもくもく会 vol. 0.003 - connpass</a></td>
+</tr>
+<tr>
+<td>2019/7/10</td>
+<td><a href="https://kumamcn.connpass.com/event/138221/">熊本TouchDesignerもくもく会 vol. 0.004 - connpass</a></td>
+</tr>
+<tr>
+<td>2019/7/24</td>
+<td><a href="https://kumamcn.connpass.com/event/139146/">熊本TouchDesignerもくもく会 vol. 0.005 - connpass</a></td>
+</tr>
+<tr>
+<td>2019/8/7</td>
+<td><a href="https://kumamcn.connpass.com/event/140815/">熊本TouchDesignerもくもく会 vol. 0.006 - connpass</a></td>
+</tr>
+<tr>
+<td>2019/8/28</td>
+<td><a href="https://kumamcn.connpass.com/event/143406/">熊本TouchDesignerもくもく会 vol. 0.007 (ライコー) - connpass</a></td>
+</tr>
+<tr>
+<td>2019/9/25</td>
+<td><a href="https://kumamcn.connpass.com/event/146379/">熊本TouchDesignerもくもく会 vol. 0.008 - connpass</a></td>
+</tr>
+<tr>
+<td>2019/10/9</td>
+<td><a href="https://kumamcn.connpass.com/event/149130/">熊本TouchDesignerもくもく会 vol. 0.009 - connpass</a></td>
+</tr>
+<tr>
+<td>2019/11/13</td>
+<td><a href="https://kumamcn.connpass.com/event/154670/">【会場変更】熊本TouchDesignerもくもく会 vol.10 - connpass</a></td>
+</tr>
+<tr>
+<td>2019/12/18</td>
+<td><a href="https://kumamcn.connpass.com/event/159160/">熊本TouchDesignerもくもく会 vol.11 - connpass</a></td>
+</tr>
+</tbody>
+</table>
+<h3 id="主催">主催</h3>
+<p><a href="https://twitter.com/makoragi">@makoragi</a></p>
+              
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+                
+                
+                  <div class="post-footer-tags">
+                    <span class="text-color-light text-small">タグ</span><br/>
+                    
+  <a class="tag tag--primary tag--small" href="https://kumamcn.github.io/tags/touchdesigner/">TouchDesigner</a>
+
+  <a class="tag tag--primary tag--small" href="https://kumamcn.github.io/tags/%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A/">もくもく会</a>
+
+  <a class="tag tag--primary tag--small" href="https://kumamcn.github.io/tags/vj/">VJ</a>
+
+                  </div>
+                
+              
+            
+            <div class="post-actions-wrap">
+  
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://kumamcn.github.io/gtfs-use/" data-tooltip="熊本GTFS-JP活用勉強会">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml">次</span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--disabled">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr">前</span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://kumamcn.github.io/td-mokumoku/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://kumamcn.github.io/td-mokumoku/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+      
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  
+</div>
+
+            
+              
+                <div id="disqus_thread">
+  <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+              
+            
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2020 Kumamoto MotionControl Network. All Rights Reserved
+  </span>
+</footer>
+
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="4">
+        <div class="post-actions-wrap">
+  
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://kumamcn.github.io/gtfs-use/" data-tooltip="熊本GTFS-JP活用勉強会">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml">次</span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--disabled">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr">前</span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://kumamcn.github.io/td-mokumoku/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://kumamcn.github.io/td-mokumoku/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+      
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  
+</div>
+
+      </div>
+      <div id="share-options-bar" class="share-options-bar" data-behavior="4">
+  <i id="btn-close-shareoptions" class="fa fa-close"></i>
+  <ul class="share-options">
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fkumamcn.github.io%2Ftd-mokumoku%2F">
+          <i class="fa fa-facebook-official"></i><span>Facebookで共有</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fkumamcn.github.io%2Ftd-mokumoku%2F">
+          <i class="fa fa-twitter"></i><span>Twitterで共有</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-remove"></i>
+    </div>
+    
+      <img id="about-card-picture" src="https://www.gravatar.com/avatar/375468237db7ccc8eba1b37c9a8771e9?s=110" alt="プロフィール画像" />
+    
+    <h4 id="about-card-name">Kumamoto MotionControl Network</h4>
+    
+      <div id="about-card-bio">熊本で面白いことが大好きなテック系コミュニティです。TMCNの姉妹コミュニティです。</div>
+    
+    
+      <div id="about-card-job">
+        <i class="fa fa-briefcase"></i>
+        <br/>
+        Tech Community
+      </div>
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker"></i>
+        <br/>
+        Kumamoto, Japan
+      </div>
+    
+  </div>
+</div>
+
+    
+
+    
+  
+    
+      <div id="cover" style="background-image:url('https://kumamcn.github.io/img/cover.jpg');"></div>
+    
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/js/jquery.fancybox.min.js" integrity="sha256-GEAnjcTqVP+vBp3SSc8bEDQqvWAZMiHyUSIorrWwH50=" crossorigin="anonymous"></script>
+
+
+<script src="https://kumamcn.github.io/js/script-pcw6v3xilnxydl1vddzazdverrnn9ctynvnxgwho987mfyqkuylcb1nlt.min.js"></script>
+
+
+<script lang="javascript">
+window.onload = updateMinWidth;
+window.onresize = updateMinWidth;
+document.getElementById("sidebar").addEventListener("transitionend", updateMinWidth);
+function updateMinWidth() {
+  var sidebar = document.getElementById("sidebar");
+  var main = document.getElementById("main");
+  main.style.minWidth = "";
+  var w1 = getComputedStyle(main).getPropertyValue("min-width");
+  var w2 = getComputedStyle(sidebar).getPropertyValue("width");
+  var w3 = getComputedStyle(sidebar).getPropertyValue("left");
+  main.style.minWidth = `calc(${w1} - ${w2} - ${w3})`;
+}
+</script>
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
+
+
+  
+    
+      <script>
+        var disqus_config = function () {
+          this.page.url = 'https:\/\/kumamcn.github.io\/td-mokumoku\/';
+          
+            this.page.identifier = '\/td-mokumoku\/'
+          
+        };
+        (function() {
+          
+          
+          if (window.location.hostname == "localhost") {
+            return;
+          }
+          var d = document, s = d.createElement('script');
+          var disqus_shortname = 'hugo-tranquilpeak-theme';
+          s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+        })();
+      </script>
+    
+  
+
+
+
+
+    
+  </body>
+</html>
+

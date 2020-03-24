@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tag1 on KumaMCN</title>
+    <link>https://kumamcn.github.io/tags/tag1/</link>
+    <description>Recent content in tag1 on KumaMCN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 28 Feb 2020 15:15:24 +0900</lastBuildDate>
+    
+	<atom:link href="https://kumamcn.github.io/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>https://kumamcn.github.io/2020/02/hello/</link>
+      <pubDate>Fri, 28 Feb 2020 15:15:24 +0900</pubDate>
+      
+      <guid>https://kumamcn.github.io/2020/02/hello/</guid>
+      <description>&lt;p&gt;テストページです。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

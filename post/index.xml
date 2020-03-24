@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on KumaMCN</title>
+    <link>https://kumamcn.github.io/post/</link>
+    <description>Recent content in Posts on KumaMCN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 02 Mar 2020 22:32:16 +0900</lastBuildDate>
+    
+	<atom:link href="https://kumamcn.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#クラッピーチャレンジ</title>
+      <link>https://kumamcn.github.io/clapper-challenge/</link>
+      <pubDate>Mon, 02 Mar 2020 22:32:16 +0900</pubDate>
+      
+      <guid>https://kumamcn.github.io/clapper-challenge/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://twitter.com/hashtag/%E3%82%AF%E3%83%A9%E3%83%83%E3%83%94%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8&#34;&gt;クラッピーチャレンジ&lt;/a&gt;は、片手で拍手できる玩具を限界までハックするという、2017年2月からKumaMCNで自然発生した謎のムーブメント。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>#ジェネ文様</title>
+      <link>https://kumamcn.github.io/genetradpat/</link>
+      <pubDate>Mon, 02 Mar 2020 21:59:29 +0900</pubDate>
+      
+      <guid>https://kumamcn.github.io/genetradpat/</guid>
+      <description>&lt;p&gt;日本の伝統文様をTouchDesigner上で再現し（プロシージャルテクスチャ）、各種センサの入力に合わせてテクスチャを変えることができる表現。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>熊本GTFS-JP活用勉強会</title>
+      <link>https://kumamcn.github.io/gtfs-use/</link>
+      <pubDate>Mon, 02 Mar 2020 15:40:12 +0900</pubDate>
+      
+      <guid>https://kumamcn.github.io/gtfs-use/</guid>
+      <description>&lt;p&gt;標準的なバス情報フォーマット（GTFS-JP）の熊本版オープンデータを活用する方法について学ぶ、「熊本GTFS-JP活用勉強会」&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>熊本TouchDesignerもくもく会</title>
+      <link>https://kumamcn.github.io/td-mokumoku/</link>
+      <pubDate>Mon, 02 Mar 2020 14:30:42 +0900</pubDate>
+      
+      <guid>https://kumamcn.github.io/td-mokumoku/</guid>
+      <description>&lt;p&gt;熊本でTouchDesignerについて情報交換したり作業をすることで学びあう、「熊本TouchDesignerもくもく会」&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
