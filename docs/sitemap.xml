@@ -3,17 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kumamcn.github.io/</loc>
+    <lastmod>2020-03-02T22:32:16+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kumamcn.github.io/clapper-challenge/</loc>
     <lastmod>2020-03-02T22:32:16+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://kumamcn.github.io/categories/</loc>
-    <lastmod>2020-03-02T22:32:16+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kumamcn.github.io/</loc>
     <lastmod>2020-03-02T22:32:16+09:00</lastmod>
   </url>
   
